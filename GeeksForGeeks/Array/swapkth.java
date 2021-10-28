@@ -1,4 +1,5 @@
-class Solution {
+package GeeksForGeeks.Array;
+public class swapkth {
     void swapKth(int arr[], int n, int k) {
        
          int temp=arr[k-1];

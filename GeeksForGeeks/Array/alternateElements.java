@@ -1,6 +1,6 @@
 package GeeksForGeeks.Array;
 
-class GfG
+public class alternateElements
 {
     public static void print(int arr[], int n)
     {

@@ -1,3 +1,4 @@
+package GeeksForGeeks.Array;
 class Compute {
     
     public long countOfElements(long arr[], long n, long x)

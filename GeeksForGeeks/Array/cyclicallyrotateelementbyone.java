@@ -1,4 +1,5 @@
-class Compute {
+package GeeksForGeeks.Array;
+public class cyclicallyrotateelementbyone {
     
     public void rotate(int arr[], int n)
     {

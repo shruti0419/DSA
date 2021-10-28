@@ -1,4 +1,5 @@
-class Compute {
+package GeeksForGeeks.Array;
+public class largestelement {
     
     public int largest(int arr[], int n)
     {
