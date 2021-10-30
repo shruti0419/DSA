@@ -1,4 +1,4 @@
-package GeeksForGeeks.Strings
+package GeeksForGeeks.Strings;
 public class deletealternatecharacter {
 
 static String delAlternate(String S) {
